@@ -1,0 +1,13 @@
+#home {
+    background-color: #f8f9fa;
+    padding: 60px 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#about, #contact, #links {
+    background-color: #ffffff;
+    padding: 40px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
